@@ -13,9 +13,15 @@ body {
       font-size: 30px;
       padding: 15px;
       border: 1px solid black;
-      border-top-right-radius: 20px;
-      border-bottom-right-radius: 20px;
       color: black;
+}
+.button3 {
+  font-size: 30px;
+  padding: 15px;
+  border: 1px solid black;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  color: black;
 }
 .yes {
   border: 1px solid black;

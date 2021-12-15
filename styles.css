@@ -36,12 +36,13 @@ body {
 }
 
 .menu-container {
-  color: #FFFFFf;
-  background-color: #4F6D7A;
-  padding: 20px 0;
+  color: gold;
+  background-color: black;
+  padding: 10px 0;
 }
 
 .menu {
+  font-family:'Roboto Slab', serif;
   border: 1px solid #fff;
   width: 900px;
   display: flex;
@@ -51,4 +52,14 @@ body {
   /* ... */
   display: flex;
   justify-content: center;
+}
+.me {
+  font-family:'Roboto Slab', serif;
+  text-align: center;
+  color:gold;
+  background-color:black;
+}
+.email {
+  text-align: left;
+  font-size: 20px;
 }
